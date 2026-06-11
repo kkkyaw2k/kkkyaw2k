@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on life<br>🌱 I’m always learning<br>🎓Graduated From University of Wollongong CompSci Majored in CyberSecurity and Digital Systems Security<br> 
+🔭 I’m currently working on life<br>🌱 I’m always learning<br>🎓University of Wollongong CompSci Majored in CyberSecurity and Digital Systems Security<br> 
 
 
 ## 🌐 Socials:

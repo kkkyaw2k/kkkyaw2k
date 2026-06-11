@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>🌱 I’m always learning<br>💬 Ask me about <br>Graduated From University of Wollongong CompSci Majored in CyberSecurity and Digital Systems Security<br> 
+🔭 I’m currently working on life<br>🌱 I’m always learning<br>🎓Graduated From University of Wollongong CompSci Majored in CyberSecurity and Digital Systems Security<br> 
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=kkkyaw2k&icon=4&color=11)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
